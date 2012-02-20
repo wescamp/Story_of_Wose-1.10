@@ -1,626 +1,735 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Story_of_Wose 1.10\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-26 18:30-0500\n"
-"PO-Revision-Date: 2012-01-26 18:30-0500\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2012-02-20 14:01-0500\n"
+"PO-Revision-Date: 2012-01-23 21:02+0100\n"
+"Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
+"Language-Team: none <>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. [campaign]
-#: _main.cfg:9
+#: Story_of_Wose/_main.cfg:9
 msgid "The Story of the Wose"
-msgstr ""
+msgstr "L'histoire des Woses"
 
 #. [campaign]
-#: _main.cfg:11
+#: Story_of_Wose/_main.cfg:11
 msgid "Somewhere on the Green Isle"
-msgstr ""
+msgstr "Quelque part sur l'île Verte"
 
 #. [campaign]
-#: _main.cfg:12
+#: Story_of_Wose/_main.cfg:12
 msgid ""
 "*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
 "magenta)=Hard"
 msgstr ""
+"*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
+"magenta)=Difficile"
 
 #. [editor_group]: id=SoW
-#: _main.cfg:38
+#: Story_of_Wose/_main.cfg:38
 msgid "Story of Wose"
-msgstr ""
+msgstr "Histoire des Woses"
 
 #. [part]
-#: scenarios/1_The_Oldwood.cfg:12
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
 msgid ""
 "Today I want to tell you another story, a mere footnote in the history books "
 "if it is even remembered at all."
 msgstr ""
+"Aujourd'hui, j'aimerais vous raconter une nouvelle histoire, une simple "
+"anecdote dans les livres d'histoire, si jamais elle y figure un jour."
 
 #. [part]
-#: scenarios/1_The_Oldwood.cfg:15
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
 msgid ""
 "But as with all such footnotes, the resulting effect on this history of "
 "Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
 "No?"
 msgstr ""
+"Mais comme toutes les anecdotes, les évènements qu'elle relate eurent un "
+"effet immense sur le déroulement de l’histoire de Wesnoth. N'avez vous pas "
+"entendu parler de l'effet papillon à l'école ?"
 
 #. [part]
-#: scenarios/1_The_Oldwood.cfg:18
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
 msgid ""
 "Somewhere in the green isle (history has forgotten exactly where), a strange "
 "order of Magi had set up operations in some forest. Wood was needed for the "
 "construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
+"Quelque part sur l'île verte (l'histoire a oublié où exactement), un ordre "
+"de mages étrange s’était installé dans la forêt. Du bois s'avéra nécessaire "
+"pour la construction d'une ville à proximité, et une équipe fût envoyée du "
+"port d'Aigueclaire."
 
 #. [object]: id=heals_object
-#: scenarios/1_The_Oldwood.cfg:122
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:122
 msgid "Potion of Healing"
-msgstr ""
+msgstr "Potion de guérison"
 
 #. [object]: id=heals_object
-#: scenarios/1_The_Oldwood.cfg:124
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:124
 msgid "This unit is given the power to heal its friends."
-msgstr ""
+msgstr "Cette unité a le pouvoir de guérir ses alliés."
 
 #. [object]: id=heals_object
-#: scenarios/1_The_Oldwood.cfg:126
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:126
 msgid "This unit is given the power to heal itself and its friends."
-msgstr ""
+msgstr "Cette unité a le pouvoir de se guérir elle-même et ses alliés."
 
 #. [message]: speaker=narrator
-#: scenarios/1_The_Oldwood.cfg:161
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
 msgid "What were you expecting, the Ruby of Fire?"
-msgstr ""
+msgstr "Qu'attendiez-vous, le Rubis de Feu ?"
 
 #. [message]: id=Tinry
-#: scenarios/1_The_Oldwood.cfg:172
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:172
 msgid ""
 "They've come. Humans from Clearwater Port. They've come to chop down our "
 "forest."
 msgstr ""
+"Ils sont venus. Des hommes du port d'Aigueclaire. Ils sont venus pour "
+"abattre notre forêt."
 
 #. [message]: id=Londerleona
-#: scenarios/1_The_Oldwood.cfg:176
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:176
 msgid "[way too loud] Must they really?"
-msgstr ""
+msgstr "[D'une voix tonitruante] Devez-vous vraiment abattre nos arbres ?"
 
 #. [message]: id=Gwoddyn
-#: scenarios/1_The_Oldwood.cfg:180
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:180
 msgid "Yes, we must. We have houses and docks to build."
-msgstr ""
+msgstr "Oui, il le faut. Nous avons des maisons et des quais à construire."
 
 #. [message]: id=Londerleona
-#: scenarios/1_The_Oldwood.cfg:184
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:184
 msgid ""
 "What? Destroy our beautiful forest for your stupid houses! This will not "
 "stand."
 msgstr ""
+"Quoi ? Détruire notre belle forêt pour vos stupides maisons ! Nous ne le "
+"permettrons pas."
 
 #. [message]: id=Tinry
-#: scenarios/1_The_Oldwood.cfg:188
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:188
 msgid ""
 "[whispers] Perhaps you could conjer up a distraction from the mud like you "
 "did for the harvest festival."
 msgstr ""
+"[chuchotant] Peut-être pourriez-vous invoquer des créatures de boue pour "
+"faire diversion, comme vous l'aviez fait pour la fête de la moisson."
 
 #. [part]
-#: scenarios/2_High_Plain.cfg:12
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:12
 msgid ""
 "One evening shortly thereafter, Londerleona climbed onto the high plain of "
 "pinnacles to observe the stars."
 msgstr ""
+"Quelques temps après, un soir, Londerleona grimpa sur les hautes plaines des "
+"pinacles pour observer les étoiles."
 
 #. [message]: id=Londerleona
-#: scenarios/2_High_Plain.cfg:61
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:61
 msgid ""
 "I've come to the pinnacles observatory to watch the stars, and--Oh bother."
 msgstr ""
+"Je suis venue à l'observatoire du sommet pour regarder les étoiles, et--Oh "
+"malheur !"
 
 #. [message]: type=Sky Drake
-#: scenarios/2_High_Plain.cfg:66
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:66
 msgid "I spy humans."
-msgstr ""
+msgstr "J’aperçois des humains."
 
 #. [message]: type=Drake Flare
-#: scenarios/2_High_Plain.cfg:70
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:70
 msgid ""
 "We've flown a long way without a proper meal, now let's have some dinner!"
 msgstr ""
+"Nous avons effectué un long chemin sans faire un repas convenable, "
+"maintenant nous allons faire un bon dîner !"
 
 #. [message]: id=Londerleona
-#: scenarios/2_High_Plain.cfg:81
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:81
 msgid "Yipe! Fire blood!"
-msgstr ""
+msgstr "Aïe ! Le souffle ardent !"
 
 #. [part]
-#: scenarios/2s_The_Begger.cfg:12
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:12
 msgid ""
 "Men kept at the forest. Londerleona would chase them away. They never did "
 "get to the center, but kept widdling away at the sides."
 msgstr ""
+"Les hommes persistèrent à vouloir rester dans la forêt, mais Londerleona sut "
+"régulièrement les chasser. Ils n'atteignirent jamais le coeur de la forêt, "
+"mais continuèrent à tenter de s'installer à son orée."
 
 #. [message]: id=Londerleona
-#: scenarios/2s_The_Begger.cfg:35
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:35
 msgid ""
 "I do tire of constantly protecting the trees. Would that they could protect "
 "themselves. Would that they could sing and dance with me."
 msgstr ""
+"Je suis fatiguée de devoir constamment protéger les arbres. J'aimerais "
+"qu'ils parviennent à se défendre tout seuls. J'aimerais qu'ils puissent "
+"chanter et danser avec moi."
 
 #. [unit]: type=Dark Adept, id=Begger
-#: scenarios/2s_The_Begger.cfg:49
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:49
 msgid "Begger"
-msgstr ""
+msgstr "Mendiant"
 
 #. [message]: id=Londerleona
-#: scenarios/2s_The_Begger.cfg:53
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:53
 msgid "Oh! The old begger. I thought I was alone. *blush*"
-msgstr ""
+msgstr "Oh ! Le vieux mendiant. Je pensais que j'étais seule. *elle rougit*"
 
 #. [message]: id=Begger
-#: scenarios/2s_The_Begger.cfg:57
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:57
 msgid "There is a way, you know. A way to achieve your heart's desire."
 msgstr ""
+"Il y a un moyen, vous savez. Un moyen de réaliser ce que votre cœur désire."
 
 #. [message]: id=Londerleona
-#: scenarios/2s_The_Begger.cfg:61
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:61
 msgid "How can this be? How can a begger offer me what I desire?"
 msgstr ""
+"Comment est-ce possible ? Comment toi un mendiant peut-il m'offrir ce que je "
+"désire ?"
 
 #. [message]: id=Begger
-#: scenarios/2s_The_Begger.cfg:65
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:65
 msgid ""
 "I have sought forbidden knowledge, the deep secrets of the fabric of "
 "reality, and for that I am shunned. I offer you now some of what I have "
 "found. May it serve you better than it has served me."
 msgstr ""
+"J'ai cherché les savoirs interdits, les plus profonds secrets de la "
+"structure de la réalité, et pour cela j'ai été exclu du monde civilisé. Je "
+"vous offre maintenant une partie de mes découvertes. En éspèrant qu'elles se "
+"révèlent plus utiles à vous qu'à moi."
 
 #. [message]: id=Londerleona
-#: scenarios/2s_The_Begger.cfg:69
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:69
 msgid "What do I want of forbidden knowledge. Go away now. Pleease."
 msgstr ""
+"Qu'est-ce que je pourrais bien faire avec des connaissance interdite ? Va-"
+"t'en maintenant. Je t'en prie."
 
 #. [message]: id=Londerleona
-#: scenarios/2s_The_Begger.cfg:83
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:83
 msgid "Oh, he dropped this."
-msgstr ""
+msgstr "Tiens, il a laissé tomber quelque chose."
 
 #. [message]: id=Londerleona
-#: scenarios/2s_The_Begger.cfg:87
+#: Story_of_Wose/scenarios/2s_The_Begger.cfg:87
 msgid "Ooh. A scroll."
-msgstr ""
+msgstr "Ooh. Un parchemin."
 
 #. [scenario]: id=3_Move
-#: scenarios/3_Move.cfg:5
+#: Story_of_Wose/scenarios/3_Move.cfg:5
 msgid "The Trees Move"
-msgstr ""
+msgstr "Les Arbres Bougent"
 
 #. [part]
-#: scenarios/3_Move.cfg:12
+#: Story_of_Wose/scenarios/3_Move.cfg:12
 msgid ""
 "The scroll was in fact a description of the spell that would raise corpses "
 "to fight for a dark sorcerer."
 msgstr ""
+"Le manuscrit s'avéra être la description du sort qui anime les cadavres pour "
+"en faire des soldats au service d'un sorcier des ténèbres."
 
 #. [part]
-#: scenarios/3_Move.cfg:15
+#: Story_of_Wose/scenarios/3_Move.cfg:15
 msgid ""
 "The spell constisted of two pieces. A piece to animate a corpse and a piece "
 "to bind the corpse to the will of the sorcerer."
 msgstr ""
+"Le sort était constitué de deux parties. Un fragment pour ranimer un cadavre "
+"et l'autre pour le lier à la volonté du sorcier."
 
 #. [part]
-#: scenarios/3_Move.cfg:18
+#: Story_of_Wose/scenarios/3_Move.cfg:18
 msgid ""
 "Next time men came to the forest, they came in great numbers, to chop it "
 "down."
 msgstr ""
+"Les hommes revinrent dans la forêt, en grand nombre, pour en abattre tous "
+"les arbres."
 
 #. [message]: id=Londerleona
-#: scenarios/3_Move.cfg:79
+#: Story_of_Wose/scenarios/3_Move.cfg:79
 msgid "Oh my! They are so many. Whatever shall I do?"
-msgstr ""
+msgstr "Oh mon dieu! Ils sont si nombreux. Que pourrais-je faire ?"
 
 #. [message]: speaker=narrator
-#: scenarios/3_Move.cfg:84
+#: Story_of_Wose/scenarios/3_Move.cfg:84
 msgid "Child, do not despair. There is yet hope."
-msgstr ""
+msgstr "Mon enfant, reprend courage. Il y a encore de l'espoir."
 
 #. [message]: id=Londerleona
-#: scenarios/3_Move.cfg:88
+#: Story_of_Wose/scenarios/3_Move.cfg:88
 msgid "Who spoke?"
-msgstr ""
+msgstr "Qui a parlé ?"
 
 #. [message]: speaker=narrator
-#: scenarios/3_Move.cfg:93
+#: Story_of_Wose/scenarios/3_Move.cfg:93
 msgid ""
 "I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset "
 "about. Animate the trees, but do not bind them to your will, for these trees "
 "have wills of their own."
 msgstr ""
+"Je m'appelle Elilmaldur-Rithrandal. Prend ce sortilège qui te pèse tant sur "
+"le coeur. Anime les arbres, mais ne les lie pas à ta volonté, car ils "
+"disposent d'une volonté propre."
 
 #. [message]: id=Londerleona
-#: scenarios/3_Move.cfg:97
+#: Story_of_Wose/scenarios/3_Move.cfg:97
 msgid "I'll try, sir."
-msgstr ""
+msgstr "Je vais essayer, monseigneur."
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: scenarios/3_Move.cfg:138
+#: Story_of_Wose/scenarios/3_Move.cfg:138
 msgid "Move my children. Avenge yourselves for your brethren."
-msgstr ""
+msgstr "Mettez vous en mouvement mes enfants. Vengez-vous pour vos frères."
 
 #. [message]: id=Londerleona
-#: scenarios/3_Move.cfg:167
+#: Story_of_Wose/scenarios/3_Move.cfg:167
 msgid "What was that?"
-msgstr ""
+msgstr "Qu'est-ce que c'était que ça ?"
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: scenarios/3_Move.cfg:211
+#: Story_of_Wose/scenarios/3_Move.cfg:211
 msgid "The temple!"
-msgstr ""
+msgstr "Le temple !"
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: scenarios/3_Move.cfg:218
+#: Story_of_Wose/scenarios/3_Move.cfg:218
 msgid ""
 "Something has happened in the catacombs. Black magic has opened up some kind "
 "of portal. Go now and see what you can do about it."
 msgstr ""
+"Il s'est passé quelque chose dans les catacombes. Quelqu'un s'est servi de "
+"la magie noire pour ouvrir une sorte de portail. Va voir ce que tu peux "
+"faire."
 
 #. [message]: id=Londerleona
-#: scenarios/3_Move.cfg:233
+#: Story_of_Wose/scenarios/3_Move.cfg:233
 msgid "Come on, into the catacombs"
-msgstr ""
+msgstr "Allons, pénétrons dans les catacombes"
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: scenarios/3_Move.cfg:237
+#: Story_of_Wose/scenarios/3_Move.cfg:237
 msgid "Don't worry about me. I will wake up more trees and crush these humans."
 msgstr ""
+"Ne t'inquiète pas pour moi. Je vais réveiller quelques arbres "
+"supplémentaires et écraser ces humains."
 
 #. [side]: type=Demilich, id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:58
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:58
 msgid "Lich-Lord Lenvan"
-msgstr ""
+msgstr "Seigneur-liche Lenvan"
 
 #. [unit]: type=Demilich, id=Lich-Lord Caror
 #. [side]: type=Demilich, id=Lich-Lord Caror
-#: scenarios/4_Catacomb.cfg:65 scenarios/5a_Arena.cfg:101
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:65
+#: Story_of_Wose/scenarios/5a_Arena.cfg:101
 msgid "Lich-Lord Caror"
-msgstr ""
+msgstr "Seigneur-liche Caror"
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:93
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:93
 msgid ""
 "All right, what happened here? This first portal was supposed to go two "
 "miles, not to the east continent."
 msgstr ""
+"Et bien, que s'est-il passé ici  ? Ce premier portail était censé s'ouvrir à "
+"deux kilomètres d'ici, et non sur le continent est."
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:97
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:97
 msgid ""
 "That sounded like it came from the far end of the cave. We better hurry and "
 "find out what it is."
 msgstr ""
+"Ce bruit avait l'air de venir du fond de la caverne. Nous devrions nous "
+"dépêcher de découvrir de quoi il s'agit."
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:104
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:104
 msgid "Caror you idiot! Who else have you been spying on this time?"
-msgstr ""
+msgstr "Caror ! idiot ! Qui d'autre as-tu été espionner cette fois ?"
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/4_Catacomb.cfg:111
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:111
 msgid ""
 "Just some elves. Oh, and a crazy mage who is all upset about some trees. "
 "What does it matter?"
 msgstr ""
+"Juste quelques elfes. Oh, et une magicienne complètement folle qui a l'air "
+"toute pertubée à cause d'une histoire d'arbres. Qu'est-ce-que ça peut bien "
+"faire ?"
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:118
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:118
 msgid ""
 "You infernal idiot. I warned you not to spy on me. This portal stuff is "
 "sensitive."
 msgstr ""
+"Sombre crétin ! Je t'avais prévenu de ne pas m'espionner. Cette histoire de "
+"portail est délicate."
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:125
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:125
 msgid ""
 "You've been spying on the orcs too, from what I hear in this portal. Now "
 "somebody's going to have to clean up after this mess."
 msgstr ""
+"Tu as également espionné les orcs, d'après ce que j'entends grace au "
+"portail. Maintenant, quelqu'un va devoir nettoyer ce gâchis."
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/4_Catacomb.cfg:132
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:132
 msgid "All right, I'll try to close it. Brace yourself."
-msgstr ""
+msgstr "Bon, je vais essayer de le fermer. Accroche-toi."
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:141
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:141
 msgid "Look out, the water's rising!"
-msgstr ""
+msgstr "Attention, l'eau monte !"
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:157
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:157
 msgid "The water rose, cutting off our escape!"
-msgstr ""
+msgstr "Les eaux sont montées, et coupent notre retraite !"
 
 #. [message]: role=notify1
-#: scenarios/4_Catacomb.cfg:161
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:161
 msgid "We're all gonna die."
-msgstr ""
+msgstr "Nous allons tous mourir."
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/4_Catacomb.cfg:165
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:165
 msgid "That didn't work. Somebody will have to go inside and close it."
 msgstr ""
+"Cela n'a pas fonctionné. Quelqu'un va devoir pénétrer à l'intérieur et le "
+"fermer."
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:172
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:172
 msgid "That's a good idea. In you gow now, and close that portal."
-msgstr ""
+msgstr "C'est une bonne idée. Aller hop, à l'intérieur, et ferme ce portail."
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/4_Catacomb.cfg:179
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:179
 msgid "You made the portal, you close it. I won't!"
 msgstr ""
+"Tu as ouvert le portail, tu le fermes. Hors de question pour moi d'y aller !"
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:194
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:194
 msgid ""
 "Trying to get rid of me, eh? I'll go in there and close the portal, but when "
 "I return, I will punish you properly for this."
 msgstr ""
+"Tu essayes de te débarrasser de moi, hein ? Je vais y aller et fermer le "
+"portail, mais à mon retour, je te punirai comme il se doit."
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:198
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:198
 msgid "That sounds terrible."
-msgstr ""
+msgstr "Quel bruit horrible."
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:290
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:290
 msgid "Ewwww"
-msgstr ""
+msgstr "Hummm"
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:296
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:296
 msgid "First these filthy orcs, now these nasty things. What a mess."
 msgstr ""
+"D'abord ces orcs crasseux, maintenant ces choses dégoûtantes. Quelle "
+"pagaille."
 
 #. [message]: type=Orcish Warrior
-#: scenarios/4_Catacomb.cfg:333
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:333
 msgid "Look out! The ceiling is collapsing."
-msgstr ""
+msgstr "Attention ! La voute est en train de s'effondrer !"
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:337
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:337
 msgid ""
 "No it isn't. The portal is unphasing. You better scram or there won't be so "
 "much as a body left for me to raise."
 msgstr ""
+"Non, il n'en est rien. Le portail n’est plus en phase. Tu ferais mieux de "
+"filer, ou il ne restera même pas assez de toi pour que je puisse ranimer ton "
+"cadavre."
 
 #. [message]: id=Londerleona
-#: scenarios/4_Catacomb.cfg:341
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:341
 msgid "Shudder. We best take his advise. I think the east passage is clear."
 msgstr ""
+"Brrr... Je crois que nous devrions suivre son conseil. Je pense que le "
+"passage à l'est est dégagé."
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:370
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:370
 msgid "You dare attack me!"
-msgstr ""
+msgstr "Vous osez m'attaquer !"
 
 #. [message]: id=Lich-Lord Lenvan
-#: scenarios/4_Catacomb.cfg:385
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:385
 msgid "Aiee, so soon to die again!"
-msgstr ""
+msgstr "Aiee, si jeune et mourir à nouveau !"
 
 #. [scenario]: id=5_Tunnel
-#: scenarios/5_Tunnel.cfg:5
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:5
 msgid "The Tunnel"
-msgstr ""
+msgstr "Le tunnel"
 
 #. [message]: id=Londerleona
-#: scenarios/5_Tunnel.cfg:362
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:362
 msgid "I think we are safe now."
-msgstr ""
+msgstr "Je pense que nous sommes en sécurité maintenant."
 
 #. [message]
 #. [message]: id=Londerleona
-#: scenarios/5_Tunnel.cfg:386 scenarios/5a_Arena.cfg:194
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:386
+#: Story_of_Wose/scenarios/5a_Arena.cfg:194
 msgid "Yipe!"
-msgstr ""
+msgstr "Aïe !"
 
 #. [unit]: type=Undead Avatar, id=historian
-#: scenarios/5_Tunnel.cfg:446
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:446
 msgid "Historian of Wesnoth"
-msgstr ""
+msgstr "Historien de Wesnoth"
 
 #. [message]: id=historian
-#: scenarios/5_Tunnel.cfg:491
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:491
 msgid "Hello, and welcome to my library."
-msgstr ""
+msgstr "Bonjour, et bienvenue dans ma bibliothèque."
 
 #. [message]: id=historian
-#: scenarios/5_Tunnel.cfg:495
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:495
 msgid ""
 "Allow me to introduce myself. I am the historian of Wesnoth. All that "
 "happens, I see and record. It is all here, everything of note."
 msgstr ""
+"Laissez moi me présenter. Je suis l'historien de Wesnoth. Tout ce qui se "
+"passe, je le vois et je le note. Tout est là, tout ce qui est digne "
+"d'intérêt."
 
 #. [message]: id=historian
-#: scenarios/5_Tunnel.cfg:499
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:499
 msgid ""
 "Right now, the world is young, and written history is not very long. As time "
 "passes my library will grow larger. At the last, I expect to have a few "
 "square miles of library, all nicely cataloged."
 msgstr ""
+"En cette heure, le monde est bien jeune, et le livre qui décrit son histoire "
+"n'est pas très épais. Ma bibliothèque grandira avec le temps. En fin de "
+"compte, je compte avoir quelques kilomètres mètres carrés de rayonnages, "
+"tous biens catalogués."
 
 #. [message]: id=historian
-#: scenarios/5_Tunnel.cfg:503
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:503
 msgid "Feel free to look around. Read any book. Just don't wreck things."
 msgstr ""
+"N'hésitez pas à faire un tour. Vous pouvez lire ce qui vous plait, mais "
+"faites attention de ne rien casser."
 
 #. [message]: speaker=narrator
-#: scenarios/5_Tunnel.cfg:508
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:508
 msgid "To read a book, play another campaign."
-msgstr ""
+msgstr "Si vous désirez lire l'un des livres, commencez une autre campagne."
 
 #. [message]: id=historian
-#: scenarios/5_Tunnel.cfg:520
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:520
 msgid "Provides a nice ambience, don't you think?"
-msgstr ""
+msgstr "L'atmosphère est sympathique, vous ne pensez pas ?"
 
 #. [message]: id=historian
-#: scenarios/5_Tunnel.cfg:532
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:532
 msgid "Now, if you had teleport ability, that would be a window."
 msgstr ""
+"Maintenant, si vous aviez la capacité de téléportation, ce serait une option."
 
 #. [unit]: id=Oracle, type=Necromancer
 #. [unit]: type=Necromancer, id=Oracle
-#: scenarios/5a_Arena.cfg:36 scenarios/5a_Arena.cfg:384
+#: Story_of_Wose/scenarios/5a_Arena.cfg:36
+#: Story_of_Wose/scenarios/5a_Arena.cfg:384
 msgid "Oracle"
-msgstr ""
+msgstr "Oracle"
 
 #. [message]: id=Oracle
-#: scenarios/5a_Arena.cfg:48
+#: Story_of_Wose/scenarios/5a_Arena.cfg:48
 msgid ""
 "Hahaha. Now that those two bags of bones are out of the way, I'll take that "
 "Ruby myself and rule this city!"
 msgstr ""
+"Ha ha ha. Maintenant que ces deux sacs d'os sont hors d'état de nuire, je "
+"vais m'emparer de ce rubis et asservir cette ville !"
 
 #. [side]: type=Wood Mage, id=Londerleona
-#: scenarios/5a_Arena.cfg:63 utils.cfg:52
+#: Story_of_Wose/scenarios/5a_Arena.cfg:63 Story_of_Wose/utils.cfg:52
 msgid "Londerleona"
-msgstr ""
+msgstr "Londerleona"
 
 #. [side]: type=Ancient Lich, id=Lich-Lord Jevyan
-#: scenarios/5a_Arena.cfg:77
+#: Story_of_Wose/scenarios/5a_Arena.cfg:77
 msgid "Lich-Lord Jevyan"
-msgstr ""
+msgstr "Seigneur-liche Jevyan"
 
 #. [message]: id=Londerleona
-#: scenarios/5a_Arena.cfg:144
+#: Story_of_Wose/scenarios/5a_Arena.cfg:144
 msgid "I have a feeling I wasn't supposed to come this way."
-msgstr ""
+msgstr "J'ai l'impression que je n'étais pas censée arriver par là."
 
 #. [message]: id=Londerleona
-#: scenarios/5a_Arena.cfg:148
+#: Story_of_Wose/scenarios/5a_Arena.cfg:148
 msgid "What's this? Looks like that terror left me a worthy gift."
 msgstr ""
+"Qu'est-ce que c'est ? On dirait que cette terreur m'a laissé un cadeau de "
+"valeur."
 
 #. [effect]: type=fire
 #. [filter_attack]
-#: scenarios/5a_Arena.cfg:157 scenarios/5a_Arena.cfg:170
+#: Story_of_Wose/scenarios/5a_Arena.cfg:157
+#: Story_of_Wose/scenarios/5a_Arena.cfg:170
 msgid "Ruby of Fire"
-msgstr ""
+msgstr "Rubis de Feu"
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/5a_Arena.cfg:198
+#: Story_of_Wose/scenarios/5a_Arena.cfg:198
 msgid "She has killed Lenvan and taken the Ruby of Fire!"
-msgstr ""
+msgstr "Elle a tué Lenvan et pris le Rubis de Feu !"
 
 #. [message]: id=Lich-Lord Jevyan
-#: scenarios/5a_Arena.cfg:202
+#: Story_of_Wose/scenarios/5a_Arena.cfg:202
 msgid "I'll take that Ruby myself, thank you."
-msgstr ""
+msgstr "Je prendrai ce Rubis pour moi-même, merci."
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/5a_Arena.cfg:206
+#: Story_of_Wose/scenarios/5a_Arena.cfg:206
 msgid "No, its Mine!"
-msgstr ""
+msgstr "Non, il est à moi !"
 
 #. [message]: id=Lich-Lord Jevyan
-#: scenarios/5a_Arena.cfg:210
+#: Story_of_Wose/scenarios/5a_Arena.cfg:210
 msgid "Fine, I'll kill you too."
-msgstr ""
+msgstr "Très bien, je vais donc vous tuer vous aussi."
 
 #. [message]: id=Lich-Lord Caror
-#: scenarios/5a_Arena.cfg:325
+#: Story_of_Wose/scenarios/5a_Arena.cfg:325
 msgid "Now that Jevyan is dead, I'll take that Ruby and rule this city!"
 msgstr ""
+"Maintenant que Jevyan est mort, je vais m'emparer de ce rubis et asservir "
+"cette ville !"
 
 #. [message]: id=Lich-Lord Jevyan
-#: scenarios/5a_Arena.cfg:352
+#: Story_of_Wose/scenarios/5a_Arena.cfg:352
 msgid "Now that that usurper is dead, I'll deal with you!"
-msgstr ""
+msgstr "Maintenant que cet usurpateur est mort, je vais m'occuper de vous !"
 
 #. [message]: id=Oracle
-#: scenarios/5a_Arena.cfg:390
+#: Story_of_Wose/scenarios/5a_Arena.cfg:390
 msgid "She was right, she shouldn't have come this way."
-msgstr ""
+msgstr "Elle avait raison, elle n'était pas censée arriver par là."
 
 #. [message]: speaker=narrator
-#: scenarios/5a_Arena.cfg:399
+#: Story_of_Wose/scenarios/5a_Arena.cfg:399
 msgid ""
 "Well, that's certainally not how the story is supposed to go. What's this? "
 "You have written into the book of history and it has come to pass just as "
 "you wrote it!"
 msgstr ""
+"Eh bien, ce n’est certainement pas comment ça que l'histoire est censée se "
+"dérouler. Qu'est-ce que c'est que ça ? Vous avez écrit quelque chose dans le "
+"livre et les évènements se sont déroulés exactement comme vous l'avez écrit !"
 
 #. [message]: speaker=narrator
-#: scenarios/5a_Arena.cfg:404
+#: Story_of_Wose/scenarios/5a_Arena.cfg:404
 msgid ""
 "Well now you've really done it! All that I have taught you, all that we "
 "know, has changed."
 msgstr ""
+"Eh bien bravo ! Tout ce que je vous ai enseigné, tout ce que nous pensions "
+"savoir, tout a changé."
 
 #. [scenario]: id=Epilog
-#: scenarios/Epilog.cfg:5
+#: Story_of_Wose/scenarios/Epilog.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Épilogue"
 
 #. [side]: type=Elvish Enchantress, id=Galatiel
-#: scenarios/Epilog.cfg:18
+#: Story_of_Wose/scenarios/Epilog.cfg:18
 msgid "Galatiel"
-msgstr ""
+msgstr "Galatiel"
 
 #. [unit]: type=Elvish Fighter, id=Telcontar
-#: scenarios/Epilog.cfg:28
+#: Story_of_Wose/scenarios/Epilog.cfg:28
 msgid "Telcontar"
-msgstr ""
+msgstr "Telcontar"
 
 #. [unit]: type=Elvish Captain, id=Isar
-#: scenarios/Epilog.cfg:59
+#: Story_of_Wose/scenarios/Epilog.cfg:59
 msgid "Isar"
-msgstr ""
+msgstr "Isar"
 
 #. [message]: id=Londerleona
-#: scenarios/Epilog.cfg:80
+#: Story_of_Wose/scenarios/Epilog.cfg:80
 msgid "Sky at last! An look, a forest!"
-msgstr ""
+msgstr "Le ciel, enfin ! Regardez, une forêt !"
 
 #. [message]: id=Telcontar
-#: scenarios/Epilog.cfg:85
+#: Story_of_Wose/scenarios/Epilog.cfg:85
 msgid ""
 "You are the first besides trolls to come out of that accursed troll hole in "
 "years. But what are these?"
 msgstr ""
+"Sans compter les trolls, vous êtes les premiers à sortir de ce maudit trou "
+"depuis des années. Et ceux-là, qui sont ils ?"
 
 #. [message]: id=Londerleona
-#: scenarios/Epilog.cfg:89
+#: Story_of_Wose/scenarios/Epilog.cfg:89
 msgid ""
 "These, my friend, are woses. But where am I? Surely this is not the Green "
 "Isle. We only just came a generation ago, but we should surely know if there "
 "are elves amoung us."
 msgstr ""
+"Ceux-ci, mon ami, sont des woses. Mais où suis-je ? Ce n'est certainement "
+"pas l'Ïle Verte. Nous n'y sommes arrivés que depuis une génération, mais "
+"nous y aurions surement remarqué la présence des elfes."
 
 #. [message]: id=Telcontar
-#: scenarios/Epilog.cfg:93
+#: Story_of_Wose/scenarios/Epilog.cfg:93
 msgid ""
 "You are a long way from the sea. Perhaps you should have a word with the "
 "Lady of the Wood. You seem to have quite a tale to tell."
 msgstr ""
+"Vous êtes bien loin de la mer.  Peut-être vous devriez parler à la Dame des "
+"Bois. Il semblerait que vous ayez une sacrée histoire à raconter."
 
 #. [message]: id=Galatiel
-#: scenarios/Epilog.cfg:106
+#: Story_of_Wose/scenarios/Epilog.cfg:106
 msgid ""
 "Welcome to our forest. May it shelter you and be your home as it is ours. "
 "But come, tell us your tale."
 msgstr ""
+"Bienvenue dans notre forêt. Que notre maison deviennent la votre. Mais "
+"allons, racontez-nous votre histoire."
 
 #. [message]: speaker=narrator
-#: scenarios/Epilog.cfg:110
+#: Story_of_Wose/scenarios/Epilog.cfg:110
 msgid ""
 "And so the story was told of how the wood magi awakened the trees and how "
 "they were the first humans to set foot upon the great continent. Many years "
@@ -629,228 +738,263 @@ msgid ""
 "and distrustful of other humans, would take no part again in history for "
 "more than a thousand years."
 msgstr ""
+"Et c'est ainsi que fut racontée l'histoire des mages des bois qui "
+"réveillèrent les arbres, et qui furent les premiers humains à poser le pied "
+"sur le Grand Continent. De nombreuses années plus tard Elilmaldur-Rithrandal "
+"jouerait un rôle clé dans la fondation de la grande nation des hommes sur ce "
+"continent. Les mages des bois, insaisissable comme toujours, et se méfiant "
+"des autres êtres humains, se tinrent à l'écart de l'Histoire pendant plus "
+"que mille ans."
 
 #. [terrain_type]: id=SoW_temple_village
-#: terrain.cfg:7
+#: Story_of_Wose/terrain.cfg:7
 msgid "Village"
-msgstr ""
+msgstr "Village"
 
 #. [terrain_type]: id=cavewall
-#: terrain.cfg:21
+#: Story_of_Wose/terrain.cfg:21
 msgid "Cave"
-msgstr ""
+msgstr "Caverne"
 
 #. [terrain_type]: id=cave
-#: terrain.cfg:33 terrain.cfg:42
+#: Story_of_Wose/terrain.cfg:33 Story_of_Wose/terrain.cfg:42
 msgid "Cave Shadow"
-msgstr ""
+msgstr "Cave Sombre"
 
 #. [unit_type]: id=Demilich, race=undead
-#: units/Demilich.cfg:5
+#: Story_of_Wose/units/Demilich.cfg:5
 msgid "Demilich"
-msgstr ""
+msgstr "Demilich"
 
 #. [unit_type]: id=Demilich, race=undead
-#: units/Demilich.cfg:30
+#: Story_of_Wose/units/Demilich.cfg:30
 msgid ""
 "The mighty Lich Lords were once rulers of powerful cities in the western "
 "contanent. The armies they command are experienced, and the lords themselves "
 "are truly terrible."
 msgstr ""
+"Les puissants seigneurs liche étaient autrefois souverains de villes "
+"puissantes dans le continent ouest. Les armées qu'ils commandent sont "
+"expérimentés, et les seigneurs eux-mêmes sont vraiment terrifiants."
 
 #. [attack]: type=arcane
-#: units/Demilich.cfg:51
+#: Story_of_Wose/units/Demilich.cfg:51
 msgid "touch"
-msgstr ""
+msgstr "toucher"
 
 #. [attack]: type=cold
-#: units/Demilich.cfg:63
+#: Story_of_Wose/units/Demilich.cfg:63
 msgid "chill tempest"
-msgstr ""
+msgstr "tempête de froid"
 
 #. [attack]: type=arcane
-#: units/Demilich.cfg:75
+#: Story_of_Wose/units/Demilich.cfg:75
 msgid "shadow wave"
-msgstr ""
+msgstr "onde obscure"
 
 #. [unit_type]: id=Green Mage, race=human
-#: units/Green-Mage.cfg:5
+#: Story_of_Wose/units/Green-Mage.cfg:5
 msgid "Green Mage"
-msgstr ""
+msgstr "Mage Arboricole"
 
 #. [unit_type]: id=Green Mage, race=human
-#: units/Green-Mage.cfg:22
+#: Story_of_Wose/units/Green-Mage.cfg:22
 msgid ""
 "Green Magi are rumored to exist by the peasants, who assume that they are "
 "Magi in training that seek solitude to improve their skill. Nothing could be "
 "further from the truth. They are experienced, woodwise, and elusive."
 msgstr ""
+"Les rumeurs qui circulent chez les paysans suggèrent que les Mages "
+"Arboricoles sont des mages en formation qui cherchent la solitude afin "
+"d’améliorer leurs compétences. Rien n'est plus faux. Ils possèdent une "
+"grande expérience de la forêt, et restent insaisissables."
 
 #. [attack]: type=impact
-#: units/Green-Mage.cfg:42 units/Life-Mage.cfg:45 units/Wood-Mage.cfg:39
+#: Story_of_Wose/units/Green-Mage.cfg:42 Story_of_Wose/units/Life-Mage.cfg:45
+#: Story_of_Wose/units/Wood-Mage.cfg:39
 msgid "staff"
-msgstr ""
+msgstr "bâton"
 
 #. [attack]: type=cold
-#: units/Green-Mage.cfg:54 units/Life-Mage.cfg:57 units/Wood-Mage.cfg:51
+#: Story_of_Wose/units/Green-Mage.cfg:54 Story_of_Wose/units/Life-Mage.cfg:57
+#: Story_of_Wose/units/Wood-Mage.cfg:51
 msgid "missile"
-msgstr ""
+msgstr "projectile magique"
 
 #. [attack]: type=arcane
-#: units/Green-Mage.cfg:66 units/Life-Mage.cfg:69
+#: Story_of_Wose/units/Green-Mage.cfg:66 Story_of_Wose/units/Life-Mage.cfg:69
 msgid "lightbeam"
-msgstr ""
+msgstr "rayon de lumière"
 
 #. [unit_type]: id=Life Mage, race=human
-#: units/Life-Mage.cfg:5
+#: Story_of_Wose/units/Life-Mage.cfg:5
 msgid "Life Mage"
-msgstr ""
+msgstr "Mage de vie"
 
 #. [unit_type]: id=Life Mage, race=human
-#: units/Life-Mage.cfg:25
+#: Story_of_Wose/units/Life-Mage.cfg:25
 msgid ""
 "Life Magi pass themselves off as Green Magi, and so are altogether unknown "
 "by the people at large. Even the best scholars have no idea of their "
 "abilities."
 msgstr ""
+"Les Mages de Vie se font passer pour des Mages Arboricoles, et sont donc "
+"tout à fait inconnus du commun des mortels. Même les meilleurs chercheurs "
+"n'ont aucune idée de leurs capacités."
 
 #. [race]: id=pixie
 #. [unit_type]: id=Pixie, race=pixie
-#: units/Pixie.cfg:5 units/Pixie.cfg:13
+#: Story_of_Wose/units/Pixie.cfg:5 Story_of_Wose/units/Pixie.cfg:13
 msgid "Pixie"
-msgstr ""
+msgstr "Lutin"
 
 #. [race]: id=pixie
-#: units/Pixie.cfg:6
+#: Story_of_Wose/units/Pixie.cfg:6
 msgid "Pixies"
-msgstr ""
+msgstr "Lutins"
 
 #. [race]: id=pixie
-#: units/Pixie.cfg:8
+#: Story_of_Wose/units/Pixie.cfg:8
 msgid ""
 "Closely related to the fairies are the pixies, which really are about three "
 "inches tall. They have a particularly whimisical attitude and a protective "
 "nature. As such, the fairies, and others, find them useful as messengers."
 msgstr ""
+"Les lutins sont étroitement apparentés aux fées. Ils font environ huit "
+"centimètres de hauteur, ont une attitude particulièrement capricieuse et une "
+"nature protectrice. Pour cette raison, les fées et quelques autres les "
+"utilisent souvent comme messagers."
 
 #. [attack]: type=impact
-#: units/Pixie.cfg:48
+#: Story_of_Wose/units/Pixie.cfg:48
 msgid "faerie touch"
-msgstr ""
+msgstr "doigt de fée"
 
 #. [unit_type]: id=Undead Avatar
-#: units/Undead_Avatar.cfg:11
+#: Story_of_Wose/units/Undead_Avatar.cfg:11
 msgid "Undead Avatar"
-msgstr ""
+msgstr "Avatar mort-vivant"
 
 #. [unit_type]: id=Undead Avatar
-#: units/Undead_Avatar.cfg:12
+#: Story_of_Wose/units/Undead_Avatar.cfg:12
 msgid ""
 "This looks like an Ancient Lich but something's different about it, and for "
 "some reason you're not afraid of it."
 msgstr ""
+"Cette créature ressemble à une Liche Ancienne, mais avec quelque chose de "
+"différent, et pour une raison indéfinissable vous n'avez pas peur d'elle."
 
 #. [unit_type]: id=Wood Mage, race=human
-#: units/Wood-Mage.cfg:5
+#: Story_of_Wose/units/Wood-Mage.cfg:5
 msgid "Wood Mage"
-msgstr ""
+msgstr "Mage des bois"
 
 #. [unit_type]: id=Wood Mage, race=human
-#: units/Wood-Mage.cfg:19
+#: Story_of_Wose/units/Wood-Mage.cfg:19
 msgid ""
 "The wood mage belongs to a very different order of magi, more akin to the "
 "undead than the lawful mages. Their power is mysterious and less understood "
 "than even the undead."
 msgstr ""
+"Le Mage des bois appartient à un ordre de  mages très différent, plus proche "
+"de la nécromancie que les mages du Bien. Leur pouvoir est mystérieux et "
+"encore moins bien compris que les morts-vivants eux-mêmes."
 
 #. [unit_type]: id=Wose Shaman, race=wose_alt
-#: units/Wose_Shaman.cfg:32
+#: Story_of_Wose/units/Wose_Shaman.cfg:32
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
 msgstr ""
+"Ces woses sont en mesure de contrôler des plantes forestières telles que des "
+"plantes grimpantes et des lianes pour gêner leurs ennemis."
 
 #. [attack]: type=impact
-#: units/Wose_Shaman.cfg:36
+#: Story_of_Wose/units/Wose_Shaman.cfg:36
 msgid "crush"
-msgstr ""
+msgstr "écrasement"
 
 #. [attack]: type=impact
-#: units/Wose_Shaman.cfg:45
+#: Story_of_Wose/units/Wose_Shaman.cfg:45
 msgid "entangle"
-msgstr ""
+msgstr "enchevêtrement"
 
 #. [message]: id=Londerleona
-#: utils.cfg:11
+#: Story_of_Wose/utils.cfg:11
 msgid "Owhh"
-msgstr ""
+msgstr "Owhh"
 
 #. [message]: speaker=narrator
-#: utils.cfg:29
+#: Story_of_Wose/utils.cfg:29
 msgid "I'm sorry but that death changes history too much for me."
 msgstr ""
+"Je suis désolé, mais en ce qui me concerne, cette mort change l'histoire "
+"dans une trop large mesure."
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
-#: utils.cfg:203
+#: Story_of_Wose/utils.cfg:203
 msgid "Max HP bonus +"
 msgstr ""
 
 #. [trait]: id=oak
-#: wtraits.cfg:6
+#: Story_of_Wose/wtraits.cfg:6
 msgid "oak"
-msgstr ""
+msgstr "chêne"
 
 #. [trait]: id=oak
-#: wtraits.cfg:7
+#: Story_of_Wose/wtraits.cfg:7
 msgid "-10% blade damage"
-msgstr ""
+msgstr "-10% dommage tranchant"
 
 #. [trait]: id=elm
-#: wtraits.cfg:20
+#: Story_of_Wose/wtraits.cfg:20
 msgid "elm"
-msgstr ""
+msgstr "orme"
 
 #. [trait]: id=elm
-#: wtraits.cfg:21
+#: Story_of_Wose/wtraits.cfg:21
 msgid "-10% impact damage"
-msgstr ""
+msgstr "-10% impact"
 
 #. [trait]: id=pine
-#: wtraits.cfg:34
+#: Story_of_Wose/wtraits.cfg:34
 msgid "pine"
-msgstr ""
+msgstr "Pin"
 
 #. [trait]: id=pine
-#: wtraits.cfg:35
+#: Story_of_Wose/wtraits.cfg:35
 msgid "-10% pierce & cold damage"
-msgstr ""
+msgstr "- 10% dommage perforant et froid"
 
 #. [trait]: id=willow
-#: wtraits.cfg:49
+#: Story_of_Wose/wtraits.cfg:49
 msgid "willow"
-msgstr ""
+msgstr "saule"
 
 #. [trait]: id=willow
-#: wtraits.cfg:50
+#: Story_of_Wose/wtraits.cfg:50
 msgid "fast in water, +10% fire damage"
-msgstr ""
+msgstr "rapide dans l'eau, +10% dégâts de feu"
 
 #. [trait]: id=redwood
-#: wtraits.cfg:71
+#: Story_of_Wose/wtraits.cfg:71
 msgid "redwood"
-msgstr ""
+msgstr "séquoia"
 
 #. [trait]: id=redwood
-#: wtraits.cfg:72
+#: Story_of_Wose/wtraits.cfg:72
 msgid "-10% fire damage"
-msgstr ""
+msgstr "-10% dommage de feu"
 
 #. [race]: id=wose_alt
-#: wtraits.cfg:84
+#: Story_of_Wose/wtraits.cfg:84
 msgid "Wose"
-msgstr ""
+msgstr "Wose"
 
 #. [race]: id=wose_alt
-#: wtraits.cfg:85
+#: Story_of_Wose/wtraits.cfg:85
 msgid "Woses"
-msgstr ""
+msgstr "Woses"
+
+#~ msgid "Cavewall Shadowed"
+#~ msgstr "Mur de caverne sombre"
