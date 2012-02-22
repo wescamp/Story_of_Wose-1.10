@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Story_of_Wose 1.10\n"
+"Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-26 18:30-0500\n"
-"PO-Revision-Date: 2012-01-26 18:30-0500\n"
+"POT-Creation-Date: 2012-02-22 15:29+0100\n"
+"PO-Revision-Date: 2012-02-22 15:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -686,17 +686,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: units/Green-Mage.cfg:42 units/Life-Mage.cfg:45 units/Wood-Mage.cfg:39
+#: units/Life-Mage.cfg:45 units/Green-Mage.cfg:42 units/Wood-Mage.cfg:39
 msgid "staff"
 msgstr ""
 
 #. [attack]: type=cold
-#: units/Green-Mage.cfg:54 units/Life-Mage.cfg:57 units/Wood-Mage.cfg:51
+#: units/Life-Mage.cfg:57 units/Green-Mage.cfg:54 units/Wood-Mage.cfg:51
 msgid "missile"
 msgstr ""
 
 #. [attack]: type=arcane
-#: units/Green-Mage.cfg:66 units/Life-Mage.cfg:69
+#: units/Life-Mage.cfg:69 units/Green-Mage.cfg:66
 msgid "lightbeam"
 msgstr ""
 
