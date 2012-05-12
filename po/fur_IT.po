@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:23+0100\n"
+"POT-Creation-Date: 2012-05-11 23:21-0400\n"
 "PO-Revision-Date: 2012-02-26 17:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -284,8 +284,8 @@ msgstr ""
 msgid "Lich-Lord Lenvan"
 msgstr ""
 
-#. [unit]: type=Demilich, id=Lich-Lord Caror
 #. [side]: type=Demilich, id=Lich-Lord Caror
+#. [unit]: type=Demilich, id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:65
 #: Story_of_Wose/scenarios/5a_Arena.cfg:101
 msgid "Lich-Lord Caror"
@@ -690,19 +690,19 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Story_of_Wose/units/Life-Mage.cfg:45 Story_of_Wose/units/Green-Mage.cfg:42
+#: Story_of_Wose/units/Green-Mage.cfg:42 Story_of_Wose/units/Life-Mage.cfg:45
 #: Story_of_Wose/units/Wood-Mage.cfg:39
 msgid "staff"
 msgstr ""
 
 #. [attack]: type=cold
-#: Story_of_Wose/units/Life-Mage.cfg:57 Story_of_Wose/units/Green-Mage.cfg:54
+#: Story_of_Wose/units/Green-Mage.cfg:54 Story_of_Wose/units/Life-Mage.cfg:57
 #: Story_of_Wose/units/Wood-Mage.cfg:51
 msgid "missile"
 msgstr ""
 
 #. [attack]: type=arcane
-#: Story_of_Wose/units/Life-Mage.cfg:69 Story_of_Wose/units/Green-Mage.cfg:66
+#: Story_of_Wose/units/Green-Mage.cfg:66 Story_of_Wose/units/Life-Mage.cfg:69
 msgid "lightbeam"
 msgstr ""
 
