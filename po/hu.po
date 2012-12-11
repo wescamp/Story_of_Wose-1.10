@@ -3,24 +3,25 @@ msgstr ""
 "Project-Id-Version: Story_of_Wose 1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 21:03-0400\n"
-"PO-Revision-Date: 2012-01-26 18:30-0500\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-12-11 08:17+0100\n"
+"Last-Translator: Elfnet <root@elfnet.hu>\n"
 "Language-Team: none\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.3\n"
 
 #. [campaign]
 #: Story_of_Wose/_main.cfg:9
 msgid "The Story of the Wose"
-msgstr ""
+msgstr "A fapásztor születése"
 
 #. [campaign]
 #: Story_of_Wose/_main.cfg:11
 msgid "Somewhere on the Green Isle"
-msgstr ""
+msgstr "Valahol a Zöld-szigeten"
 
 #. [campaign]
 #: Story_of_Wose/_main.cfg:12
@@ -28,11 +29,13 @@ msgid ""
 "*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
 "magenta)=Hard"
 msgstr ""
+"*&units/woses/wose.png~TC(1,magenta)=Normál;&units/woses/wose-elder.png~TC(1,"
+"magenta)=Nehéz"
 
 #. [editor_group]: id=SoW
 #: Story_of_Wose/_main.cfg:38
 msgid "Story of Wose"
-msgstr ""
+msgstr "A fapásztorok születése"
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
@@ -40,6 +43,8 @@ msgid ""
 "Today I want to tell you another story, a mere footnote in the history books "
 "if it is even remembered at all."
 msgstr ""
+"Ma egy másik mesét szerenték elmondani neked - a történelem egy elfeledett "
+"fejezetét, amire már alig emlékeznek. "
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
@@ -48,6 +53,9 @@ msgid ""
 "Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
 "No?"
 msgstr ""
+"Ahogy az lenni szokott, az elfeledett események utóhatása mély nyomot "
+"hagyott Wesnoth történelmében is. Az iskolában nem tanultatok a "
+"pillangóhatásról? Nem?"
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
@@ -56,26 +64,30 @@ msgid ""
 "order of Magi had set up operations in some forest. Wood was needed for the "
 "construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
+"Valahol a Zöld-szigeten (már feledésbe merült, pontosan hol), egy furcsa "
+"mágikus rend munkálkodott egy erdőben. A közeli faluban az építkezéshez fára "
+"volt szükség, ezért elküldtek egy csapatot Kristályvízkikötőből..."
 
 #. [object]: id=heals_object
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:122
 msgid "Potion of Healing"
-msgstr ""
+msgstr "Gyógyítás itala"
 
 #. [object]: id=heals_object
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:124
 msgid "This unit is given the power to heal its friends."
-msgstr ""
+msgstr "Ez az egység mostantól képes arra, hogy meggyógyítsa a barátait."
 
 #. [object]: id=heals_object
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:126
 msgid "This unit is given the power to heal itself and its friends."
 msgstr ""
+"Ez az egység mostantól képes arra, hogy meggyógyítsa magát és a barátait."
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
 msgid "What were you expecting, the Ruby of Fire?"
-msgstr ""
+msgstr "Mit vártál, a Tűz Rubinját?"
 
 #. [message]: id=Tinry
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:172
@@ -83,16 +95,17 @@ msgid ""
 "They've come. Humans from Clearwater Port. They've come to chop down our "
 "forest."
 msgstr ""
+"Jönnek. Emberek Kristályvízkikötőböl. Jönnek, hogy kivágják az erdőnket."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:176
 msgid "[way too loud] Must they really?"
-msgstr ""
+msgstr "[túl hangosan] Tényleg muszáj ezt tenniük?"
 
 #. [message]: id=Gwoddyn
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:180
 msgid "Yes, we must. We have houses and docks to build."
-msgstr ""
+msgstr "Igen, muszáj. Házakat és dokkokat kell építenünk."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:184
@@ -100,6 +113,7 @@ msgid ""
 "What? Destroy our beautiful forest for your stupid houses! This will not "
 "stand."
 msgstr ""
+"Mi? Lerombolni a gyönyörű erdőnket az ostoba házaitokért? Ezt nem tehetitek!"
 
 #. [message]: id=Tinry
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:188
@@ -107,6 +121,8 @@ msgid ""
 "[whispers] Perhaps you could conjer up a distraction from the mud like you "
 "did for the harvest festival."
 msgstr ""
+"[suttog] Talán varázsolhatnál valami szórakoztatót sárból, mint az aratási "
+"ünnepségen."
 
 #. [part]
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:12
@@ -114,28 +130,32 @@ msgid ""
 "One evening shortly thereafter, Londerleona climbed onto the high plain of "
 "pinnacles to observe the stars."
 msgstr ""
+"Nem sokkal azután, egyik este Londerleona felmászott a hegy tetején  lévő "
+"fennsíkra, hogy tanulmányozza a csillagokat."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:61
 msgid ""
 "I've come to the pinnacles observatory to watch the stars, and--Oh bother."
 msgstr ""
+"Feljöttem a csúcsra, hogy a csillagvizsgálóból nézzem a csillagokat és--Ó, "
+"bosszúság."
 
 #. [message]: type=Sky Drake
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:66
 msgid "I spy humans."
-msgstr ""
+msgstr "Embereket látok."
 
 #. [message]: type=Drake Flare
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:70
 msgid ""
 "We've flown a long way without a proper meal, now let's have some dinner!"
-msgstr ""
+msgstr "Hosszú ideje repülünk valódi hús nélkül, most kezdődjön a lakoma!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:81
 msgid "Yipe! Fire blood!"
-msgstr ""
+msgstr "Jippí, tüzes husika!"
 
 #. [part]
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:12
@@ -143,6 +163,8 @@ msgid ""
 "Men kept at the forest. Londerleona would chase them away. They never did "
 "get to the center, but kept widdling away at the sides."
 msgstr ""
+"Londerleona legszívesebben kiűzné az embereket az erdőből, akik az erdő "
+"közepéig soha nem jutottak, de a szélein féktelenül garázdálkodtak."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:35
@@ -150,26 +172,29 @@ msgid ""
 "I do tire of constantly protecting the trees. Would that they could protect "
 "themselves. Would that they could sing and dance with me."
 msgstr ""
+"Belefáradtam, hogy folyamatosan védeni kell a fákat. Jó lenne, ha meg tudnák "
+"védeni magukat, ha velem énekelnének és táncolnának."
 
 #. [unit]: type=Dark Adept, id=Begger
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:49
 msgid "Begger"
-msgstr ""
+msgstr "Kéregető"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:53
 msgid "Oh! The old begger. I thought I was alone. *blush*"
-msgstr ""
+msgstr "Óó! Az öreg kéregető. Azt gondoltam, egyedül vagyok. *elpirul*"
 
 #. [message]: id=Begger
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:57
 msgid "There is a way, you know. A way to achieve your heart's desire."
 msgstr ""
+"Van egy út, ahogy azt te is tudod. Egy út, hogy megvalósítsd szíved vágyát."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:61
 msgid "How can this be? How can a begger offer me what I desire?"
-msgstr ""
+msgstr "Hogyan lehetséges ez? Honnan tudja egy koldus, hogy mire vágyom?"
 
 #. [message]: id=Begger
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:65
@@ -178,26 +203,29 @@ msgid ""
 "reality, and for that I am shunned. I offer you now some of what I have "
 "found. May it serve you better than it has served me."
 msgstr ""
+"Bepillantást nyertem a legtitkosabb tudásba, megismertem a világunk "
+"alapjait, ezért kiközösítettek. Most megosztom veled tudásom egy részét: "
+"téged talán jobban szolgál majd."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:69
 msgid "What do I want of forbidden knowledge. Go away now. Pleease."
-msgstr ""
+msgstr "Mit remélhetek én a tiltott tudástól? Menj el, kééérlek!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:83
 msgid "Oh, he dropped this."
-msgstr ""
+msgstr "Ó, ezt elejtette."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:87
 msgid "Ooh. A scroll."
-msgstr ""
+msgstr "Ohh. Egy tekercs."
 
 #. [scenario]: id=3_Move
 #: Story_of_Wose/scenarios/3_Move.cfg:5
 msgid "The Trees Move"
-msgstr ""
+msgstr "A fák megmozdulnak"
 
 #. [part]
 #: Story_of_Wose/scenarios/3_Move.cfg:12
@@ -205,6 +233,8 @@ msgid ""
 "The scroll was in fact a description of the spell that would raise corpses "
 "to fight for a dark sorcerer."
 msgstr ""
+"A tekercs valójában egy varázslat leírása volt, és arról szólt, hogyan kell "
+"megidézni testeket, akik aztán a sötét varázslóért harcolnak."
 
 #. [part]
 #: Story_of_Wose/scenarios/3_Move.cfg:15
@@ -212,6 +242,8 @@ msgid ""
 "The spell constisted of two pieces. A piece to animate a corpse and a piece "
 "to bind the corpse to the will of the sorcerer."
 msgstr ""
+"A varázslat két részből állt. Az egyik rész a holttestek életre keltéséről, "
+"a másik az életre kelt testek irányításáról."
 
 #. [part]
 #: Story_of_Wose/scenarios/3_Move.cfg:18
@@ -219,21 +251,22 @@ msgid ""
 "Next time men came to the forest, they came in great numbers, to chop it "
 "down."
 msgstr ""
+"A következő alkalommal rengeteg ember jött az erdőbe, hogy kivágják a fákat."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:79
 msgid "Oh my! They are so many. Whatever shall I do?"
-msgstr ""
+msgstr "Istenem! Rengetegen vannak. Mégis mit tehetnék?"
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/3_Move.cfg:84
 msgid "Child, do not despair. There is yet hope."
-msgstr ""
+msgstr "Gyermekem, ne ess kétségbe! Még van remény."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:88
 msgid "Who spoke?"
-msgstr ""
+msgstr "Ki beszél?"
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/3_Move.cfg:93
@@ -242,26 +275,29 @@ msgid ""
 "about. Animate the trees, but do not bind them to your will, for these trees "
 "have wills of their own."
 msgstr ""
+"Én magamat Elilmaldur-Rithrandalnak hívom. Használd azt a varázslatot, ami "
+"annyira feldúlt. Keltsd életre a fákat, de ne irányítsd őket, mivel ezeknek "
+"a fáknak saját akaratuk van."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:97
 msgid "I'll try, sir."
-msgstr ""
+msgstr "Megpróbálom, uram."
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:138
 msgid "Move my children. Avenge yourselves for your brethren."
-msgstr ""
+msgstr "Menj, gyermekem! Állj bosszút a testvéreidért!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:167
 msgid "What was that?"
-msgstr ""
+msgstr "Mi volt ez?"
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:211
 msgid "The temple!"
-msgstr ""
+msgstr "A templom!"
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:218
@@ -269,28 +305,32 @@ msgid ""
 "Something has happened in the catacombs. Black magic has opened up some kind "
 "of portal. Go now and see what you can do about it."
 msgstr ""
+"Valami történt a katakombákban. A sötét mágia kinyitott valamiféle kaput. "
+"Menj, és nézd meg, mit tehetsz!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:233
 msgid "Come on, into the catacombs"
-msgstr ""
+msgstr "Gyerünk, a katakombákba!"
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:237
 msgid "Don't worry about me. I will wake up more trees and crush these humans."
 msgstr ""
+"Ne aggódj miattam! Újabb fákat fogok felébreszteni és össze fogom zúzni "
+"ezeket az embereket."
 
 #. [side]: type=Demilich, id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:58
 msgid "Lich-Lord Lenvan"
-msgstr ""
+msgstr "Lenvan delevény úr"
 
 #. [side]: type=Demilich, id=Lich-Lord Caror
 #. [unit]: type=Demilich, id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:65
 #: Story_of_Wose/scenarios/5a_Arena.cfg:101
 msgid "Lich-Lord Caror"
-msgstr ""
+msgstr "Caror delevény úr"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:93
@@ -298,6 +338,8 @@ msgid ""
 "All right, what happened here? This first portal was supposed to go two "
 "miles, not to the east continent."
 msgstr ""
+"Jól van, mi történt itt? Az első térkapunak két mérföldre kellett volna "
+"kinyílnia, nem a keleti kontinensen."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:97
@@ -305,11 +347,13 @@ msgid ""
 "That sounded like it came from the far end of the cave. We better hurry and "
 "find out what it is."
 msgstr ""
+"Ez a hang mintha a barlang másik feléből jött volna. Jobb lesz, ha sietünk, "
+"és megnézzük, hogy mi ez."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:104
 msgid "Caror you idiot! Who else have you been spying on this time?"
-msgstr ""
+msgstr "Caror, te idióta! Ez alkalommal még ki után kémkedtél?"
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:111
@@ -317,6 +361,8 @@ msgid ""
 "Just some elves. Oh, and a crazy mage who is all upset about some trees. "
 "What does it matter?"
 msgstr ""
+"Csak néhány tünde után. Ó, és egy őrült varázsló után, aki teljesen kiborult "
+"néhány fa miatt. Mit számít ez?"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:118
@@ -324,6 +370,8 @@ msgid ""
 "You infernal idiot. I warned you not to spy on me. This portal stuff is "
 "sensitive."
 msgstr ""
+"Te pokoli idióta! Figyelmeztettelek, hogy ne kémkedj utánam. Ez a térkapu "
+"dolog igen érzékeny."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:125
@@ -331,41 +379,43 @@ msgid ""
 "You've been spying on the orcs too, from what I hear in this portal. Now "
 "somebody's going to have to clean up after this mess."
 msgstr ""
+"Orkok után is kémkedtél, ahogy ezen a térkapun hallom. Most valakinek el "
+"kell takarítania ezt a rendetlenséget."
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:132
 msgid "All right, I'll try to close it. Brace yourself."
-msgstr ""
+msgstr "Jól van, majd megpróbálom bezárni. Készüljetek fel!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:141
 msgid "Look out, the water's rising!"
-msgstr ""
+msgstr "Vigyázzatok, a vízszint emelkedik!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:157
 msgid "The water rose, cutting off our escape!"
-msgstr ""
+msgstr "A tavirózsa elzárja a menekülési utat!"
 
 #. [message]: role=notify1
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:161
 msgid "We're all gonna die."
-msgstr ""
+msgstr "Mind meg fogunk halni."
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:165
 msgid "That didn't work. Somebody will have to go inside and close it."
-msgstr ""
+msgstr "Ez nem működött. Valakinek be kellene mennie és be kéne zárnia."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:172
 msgid "That's a good idea. In you gow now, and close that portal."
-msgstr ""
+msgstr "Jó ötlet. Menj és zárd be azt a térkaput!"
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:179
 msgid "You made the portal, you close it. I won't!"
-msgstr ""
+msgstr "Te csináltad a térkaput, te is zárd be. Én nem tudom, hogyan kell!"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:194
@@ -373,26 +423,30 @@ msgid ""
 "Trying to get rid of me, eh? I'll go in there and close the portal, but when "
 "I return, I will punish you properly for this."
 msgstr ""
+"Próbálsz megszabadulni tőlem, mi? Be fogok oda menni és bezárom a térkaput, "
+"de amikor visszatérek, példásan meg foglak büntetni."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:198
 msgid "That sounds terrible."
-msgstr ""
+msgstr "Szörnyen hangzik."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:290
 msgid "Ewwww"
-msgstr ""
+msgstr "Avvvvv"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:296
 msgid "First these filthy orcs, now these nasty things. What a mess."
 msgstr ""
+"Előbb ezek az ocsmány orkok, most pedig ezek az undorító dolgok. Micsoda "
+"felfordulás."
 
 #. [message]: type=Orcish Warrior
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:333
 msgid "Look out! The ceiling is collapsing."
-msgstr ""
+msgstr "Vigyázz! A mennyezet beomlik."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:337
@@ -400,48 +454,52 @@ msgid ""
 "No it isn't. The portal is unphasing. You better scram or there won't be so "
 "much as a body left for me to raise."
 msgstr ""
+"Nem, nem fog. A térkapu már használhatatlan. Jobban teszed, ha eltűnsz vagy "
+"annyi sem marad belőled, amit feltámaszthatnék."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:341
 msgid "Shudder. We best take his advise. I think the east passage is clear."
 msgstr ""
+"Borzasztó. Jobb, ha megfogadjuk a tanácsát. Szerintem a keleti folyosó "
+"tiszta."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:370
 msgid "You dare attack me!"
-msgstr ""
+msgstr "Hogy mersz megtámadni engem?!"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:385
 msgid "Aiee, so soon to die again!"
-msgstr ""
+msgstr "Ahh, túl korán van újra meghalni!"
 
 #. [scenario]: id=5_Tunnel
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:5
 msgid "The Tunnel"
-msgstr ""
+msgstr "Az alagút"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:362
 msgid "I think we are safe now."
-msgstr ""
+msgstr "Azt hiszem, végre  biztonságban vagyunk."
 
 #. [message]
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:386
 #: Story_of_Wose/scenarios/5a_Arena.cfg:194
 msgid "Yipe!"
-msgstr ""
+msgstr "Hurrá!"
 
 #. [unit]: type=Undead Avatar, id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:446
 msgid "Historian of Wesnoth"
-msgstr ""
+msgstr "Wesnothi történész"
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:491
 msgid "Hello, and welcome to my library."
-msgstr ""
+msgstr "Legyetek üdvözölve a könyvtáramban."
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:495
@@ -449,6 +507,9 @@ msgid ""
 "Allow me to introduce myself. I am the historian of Wesnoth. All that "
 "happens, I see and record. It is all here, everything of note."
 msgstr ""
+"Engedjétek meg, hogy bemutatkozzam. Én vagyok Wesnoth történésze. Minden, "
+"ami volt, van és lesz, én végignézem és rögzítem. Minden itt van - "
+"feljegyzések mindenről."
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:499
@@ -457,33 +518,38 @@ msgid ""
 "passes my library will grow larger. At the last, I expect to have a few "
 "square miles of library, all nicely cataloged."
 msgstr ""
+"Most a világ még fiatal, és az írott történelem nem túl hosszú, de idővel a "
+"könyvtáram nőni fog. Arra számítok, hogy végül több négyzetkilométernyire "
+"nő, és minden szépen katalogizálva lesz."
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:503
 msgid "Feel free to look around. Read any book. Just don't wreck things."
 msgstr ""
+"Nyugodtan nézzetek körül! Bármelyik könyvet elolvashatod, csak ne tegyél "
+"kárt bennük!"
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:508
 msgid "To read a book, play another campaign."
-msgstr ""
+msgstr "Ha olvasgatni akarsz, akkor másik hadjárattal játssz!"
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:520
 msgid "Provides a nice ambience, don't you think?"
-msgstr ""
+msgstr "Elég szép környezet, nem gondolod?"
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:532
 msgid "Now, if you had teleport ability, that would be a window."
-msgstr ""
+msgstr "Most, ha van teleportációs képességed, ez egy kiút lehet a számodra."
 
 #. [unit]: id=Oracle, type=Necromancer
 #. [unit]: type=Necromancer, id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:36
 #: Story_of_Wose/scenarios/5a_Arena.cfg:384
 msgid "Oracle"
-msgstr ""
+msgstr "Orákulum"
 
 #. [message]: id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:48
@@ -491,68 +557,71 @@ msgid ""
 "Hahaha. Now that those two bags of bones are out of the way, I'll take that "
 "Ruby myself and rule this city!"
 msgstr ""
+"Hahaha. Most, hogy az a két csontkupac eltűnt az útból, megszerzem azt a "
+"Rubint, és uralni fogom ezt a várost!"
 
 #. [side]: type=Wood Mage, id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:63 Story_of_Wose/utils.cfg:52
 msgid "Londerleona"
-msgstr ""
+msgstr "Londerleona"
 
 #. [side]: type=Ancient Lich, id=Lich-Lord Jevyan
 #: Story_of_Wose/scenarios/5a_Arena.cfg:77
 msgid "Lich-Lord Jevyan"
-msgstr ""
+msgstr "Jevyan delevény úr"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:144
 msgid "I have a feeling I wasn't supposed to come this way."
-msgstr ""
+msgstr "Van egy olyan érzésem, hogy nem erre kellett volna jönni. "
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:148
 msgid "What's this? Looks like that terror left me a worthy gift."
-msgstr ""
+msgstr "Mi ez? Úgy tűnik, az a szörnyűség hagyott nekem egy értékes ajándékot."
 
 #. [effect]: type=fire
 #. [filter_attack]
 #: Story_of_Wose/scenarios/5a_Arena.cfg:157
 #: Story_of_Wose/scenarios/5a_Arena.cfg:170
 msgid "Ruby of Fire"
-msgstr ""
+msgstr "a Tűz Rubinja"
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/5a_Arena.cfg:198
 msgid "She has killed Lenvan and taken the Ruby of Fire!"
-msgstr ""
+msgstr "Megölte Lenvant és elvette a Tűz Rubinját!"
 
 #. [message]: id=Lich-Lord Jevyan
 #: Story_of_Wose/scenarios/5a_Arena.cfg:202
 msgid "I'll take that Ruby myself, thank you."
-msgstr ""
+msgstr "Magamhoz fogom venni azt a rubint, köszönöm."
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/5a_Arena.cfg:206
 msgid "No, its Mine!"
-msgstr ""
+msgstr "Nem, ez az Enyém!"
 
 #. [message]: id=Lich-Lord Jevyan
 #: Story_of_Wose/scenarios/5a_Arena.cfg:210
 msgid "Fine, I'll kill you too."
-msgstr ""
+msgstr "Legyen, akkor téged is meg foglak ölni."
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/5a_Arena.cfg:325
 msgid "Now that Jevyan is dead, I'll take that Ruby and rule this city!"
 msgstr ""
+"Most, hogy Jevyan meghalt, megszerzem a rubint és uralni fogom ezt a várost!"
 
 #. [message]: id=Lich-Lord Jevyan
 #: Story_of_Wose/scenarios/5a_Arena.cfg:352
 msgid "Now that that usurper is dead, I'll deal with you!"
-msgstr ""
+msgstr "Az a bitorló halott, most veled fogok foglalkozni!"
 
 #. [message]: id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:390
 msgid "She was right, she shouldn't have come this way."
-msgstr ""
+msgstr "Igaza volt, nem kellett volna erre jönnie."
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/5a_Arena.cfg:399
@@ -561,6 +630,9 @@ msgid ""
 "You have written into the book of history and it has come to pass just as "
 "you wrote it!"
 msgstr ""
+"Tipp: Bizonyára nem ezt a folytatást vártad. Mi történt?  Átírtad a "
+"történelemkönyv egyik fejezetét, s az események mostantól az általad vágott "
+"mederben folynak tovább."
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/5a_Arena.cfg:404
@@ -568,31 +640,33 @@ msgid ""
 "Well now you've really done it! All that I have taught you, all that we "
 "know, has changed."
 msgstr ""
+"Hát, most tényleg megcsináltad! Minden, amit tanítottam neked, minden, amit "
+"tudtunk, megváltozott."
 
 #. [scenario]: id=Epilog
 #: Story_of_Wose/scenarios/Epilog.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilógus"
 
 #. [side]: type=Elvish Enchantress, id=Galatiel
 #: Story_of_Wose/scenarios/Epilog.cfg:18
 msgid "Galatiel"
-msgstr ""
+msgstr "Galatiel"
 
 #. [unit]: type=Elvish Fighter, id=Telcontar
 #: Story_of_Wose/scenarios/Epilog.cfg:28
 msgid "Telcontar"
-msgstr ""
+msgstr "Telcontar"
 
 #. [unit]: type=Elvish Captain, id=Isar
 #: Story_of_Wose/scenarios/Epilog.cfg:59
 msgid "Isar"
-msgstr ""
+msgstr "Isar"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/Epilog.cfg:80
 msgid "Sky at last! An look, a forest!"
-msgstr ""
+msgstr "Végre az ég! És nézd, egy erdő!"
 
 #. [message]: id=Telcontar
 #: Story_of_Wose/scenarios/Epilog.cfg:85
@@ -600,6 +674,8 @@ msgid ""
 "You are the first besides trolls to come out of that accursed troll hole in "
 "years. But what are these?"
 msgstr ""
+"Évek óta te vagy a trollok mellett az első, aki élve kijött azokból az "
+"átkozott barlangokból. De mik ezek?"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/Epilog.cfg:89
@@ -608,6 +684,9 @@ msgid ""
 "Isle. We only just came a generation ago, but we should surely know if there "
 "are elves amoung us."
 msgstr ""
+"Ezek, barátom, fapásztorok. De hol vagyok? Ez biztosan nem a Zöld-sziget. Mi "
+"csak egy nemzedékkel ezelőtt érkeztünk, de biztosan tudnánk róla, ha tündék "
+"lennének közöttünk."
 
 #. [message]: id=Telcontar
 #: Story_of_Wose/scenarios/Epilog.cfg:93
@@ -615,6 +694,8 @@ msgid ""
 "You are a long way from the sea. Perhaps you should have a word with the "
 "Lady of the Wood. You seem to have quite a tale to tell."
 msgstr ""
+"Hosszú utat tettél meg a tengertől idáig. Talán beszélned kéne a Fák "
+"Asszonyával. Úgy látom, lenne mit mesélned."
 
 #. [message]: id=Galatiel
 #: Story_of_Wose/scenarios/Epilog.cfg:106
@@ -622,6 +703,8 @@ msgid ""
 "Welcome to our forest. May it shelter you and be your home as it is ours. "
 "But come, tell us your tale."
 msgstr ""
+"Köszöntelek az erdőnkben. Az erdő téged is megvéd, és lehet a te otthonod "
+"is. De gyere, meséld el nekünk a történetedet."
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/Epilog.cfg:110
@@ -633,26 +716,32 @@ msgid ""
 "and distrustful of other humans, would take no part again in history for "
 "more than a thousand years."
 msgstr ""
+"Így szól a történet arról, hogyan lehelt egy famágus életet a fákba, s "
+"hogyan lépett az első ember a Nagy-Kontinensre. Sok-sok évvel később "
+"Elilmaldur-Rithrandal kulcsszerepet fog játszani a kontinens egy nagy "
+"népének kialakulásában. A famágusok azonban - velükszületett "
+"bizalmatlanságuk, elkülönülésük okán - több mint ezer évig nem bukkannak fel "
+"a történelemben."
 
 #. [terrain_type]: id=SoW_temple_village
 #: Story_of_Wose/terrain.cfg:7
 msgid "Village"
-msgstr ""
+msgstr "Falu"
 
 #. [terrain_type]: id=cavewall
 #: Story_of_Wose/terrain.cfg:21
 msgid "Cave"
-msgstr ""
+msgstr "Barlang"
 
 #. [terrain_type]: id=cave
 #: Story_of_Wose/terrain.cfg:33 Story_of_Wose/terrain.cfg:42
 msgid "Cave Shadow"
-msgstr ""
+msgstr "Barlangi árnyék"
 
 #. [unit_type]: id=Demilich, race=undead
 #: Story_of_Wose/units/Demilich.cfg:5
 msgid "Demilich"
-msgstr ""
+msgstr "Féldelevény"
 
 #. [unit_type]: id=Demilich, race=undead
 #: Story_of_Wose/units/Demilich.cfg:30
@@ -661,26 +750,29 @@ msgid ""
 "contanent. The armies they command are experienced, and the lords themselves "
 "are truly terrible."
 msgstr ""
+"Az erős delevény urak valaha az erős városokat uralták a nyugati "
+"kontinensen. Az általuk vezetett hadseregek jól szervezettek voltak, maguk a "
+"delevény urak pedig rettenetesen vérszomjasak."
 
 #. [attack]: type=arcane
 #: Story_of_Wose/units/Demilich.cfg:51
 msgid "touch"
-msgstr ""
+msgstr "érintés"
 
 #. [attack]: type=cold
 #: Story_of_Wose/units/Demilich.cfg:63
 msgid "chill tempest"
-msgstr ""
+msgstr "fagyvihar"
 
 #. [attack]: type=arcane
 #: Story_of_Wose/units/Demilich.cfg:75
 msgid "shadow wave"
-msgstr ""
+msgstr "árnyhullám"
 
 #. [unit_type]: id=Green Mage, race=human
 #: Story_of_Wose/units/Green-Mage.cfg:5
 msgid "Green Mage"
-msgstr ""
+msgstr "Zöld varázsló"
 
 #. [unit_type]: id=Green Mage, race=human
 #: Story_of_Wose/units/Green-Mage.cfg:22
@@ -689,28 +781,31 @@ msgid ""
 "Magi in training that seek solitude to improve their skill. Nothing could be "
 "further from the truth. They are experienced, woodwise, and elusive."
 msgstr ""
+"A zöld varázslókról azt beszélik a parasztok, hogy kezdő mágusok, akik "
+"magányosan fejlesztik képességeiket. A valóság egészen más. Nagyon is "
+"gyakorlottak, bölcsek és könnyen megtévesztik a tapasztalatlan embereket."
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Green-Mage.cfg:42 Story_of_Wose/units/Life-Mage.cfg:45
 #: Story_of_Wose/units/Wood-Mage.cfg:39
 msgid "staff"
-msgstr ""
+msgstr "bot"
 
 #. [attack]: type=cold
 #: Story_of_Wose/units/Green-Mage.cfg:54 Story_of_Wose/units/Life-Mage.cfg:57
 #: Story_of_Wose/units/Wood-Mage.cfg:51
 msgid "missile"
-msgstr ""
+msgstr "lövedék"
 
 #. [attack]: type=arcane
 #: Story_of_Wose/units/Green-Mage.cfg:66 Story_of_Wose/units/Life-Mage.cfg:69
 msgid "lightbeam"
-msgstr ""
+msgstr "fénycsóva"
 
 #. [unit_type]: id=Life Mage, race=human
 #: Story_of_Wose/units/Life-Mage.cfg:5
 msgid "Life Mage"
-msgstr ""
+msgstr "Életvarázsló"
 
 #. [unit_type]: id=Life Mage, race=human
 #: Story_of_Wose/units/Life-Mage.cfg:25
@@ -719,17 +814,20 @@ msgid ""
 "by the people at large. Even the best scholars have no idea of their "
 "abilities."
 msgstr ""
+"Az Élet varázslók valaha Zöld mágusok voltak, s hozzájuk hasonlóan az "
+"emberek alig ismerik őket. Még a legnagyobb tudósok előtt is rejtve maradtak "
+"a képeségeik."
 
 #. [race]: id=pixie
 #. [unit_type]: id=Pixie, race=pixie
 #: Story_of_Wose/units/Pixie.cfg:5 Story_of_Wose/units/Pixie.cfg:13
 msgid "Pixie"
-msgstr ""
+msgstr "Tündérke"
 
 #. [race]: id=pixie
 #: Story_of_Wose/units/Pixie.cfg:6
 msgid "Pixies"
-msgstr ""
+msgstr "Tündérkék"
 
 #. [race]: id=pixie
 #: Story_of_Wose/units/Pixie.cfg:8
@@ -738,16 +836,19 @@ msgid ""
 "inches tall. They have a particularly whimisical attitude and a protective "
 "nature. As such, the fairies, and others, find them useful as messengers."
 msgstr ""
+"A tündérekkel szoros rokonságban állnak a tündérkék, akik nagyjából három "
+"hüvelyk magasak. Különös természtük van: szeszélyes, de egyben védekező. "
+"Mint ilyenek, a tündérek (és mások) igen hasznos hírvivőnek tekintik őket."
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Pixie.cfg:48
 msgid "faerie touch"
-msgstr ""
+msgstr "tündéri érintés"
 
 #. [unit_type]: id=Undead Avatar
 #: Story_of_Wose/units/Undead_Avatar.cfg:11
 msgid "Undead Avatar"
-msgstr ""
+msgstr "Élőholt megtestesülés"
 
 #. [unit_type]: id=Undead Avatar
 #: Story_of_Wose/units/Undead_Avatar.cfg:12
@@ -755,11 +856,13 @@ msgid ""
 "This looks like an Ancient Lich but something's different about it, and for "
 "some reason you're not afraid of it."
 msgstr ""
+"Ez egy ősi delevény úrnak tűnik, de valami különös van rajta, és valamiért "
+"nem félsz tőle."
 
 #. [unit_type]: id=Wood Mage, race=human
 #: Story_of_Wose/units/Wood-Mage.cfg:5
 msgid "Wood Mage"
-msgstr ""
+msgstr "Famágus"
 
 #. [unit_type]: id=Wood Mage, race=human
 #: Story_of_Wose/units/Wood-Mage.cfg:19
@@ -768,6 +871,9 @@ msgid ""
 "undead than the lawful mages. Their power is mysterious and less understood "
 "than even the undead."
 msgstr ""
+"A famágus igen különbözik a többi mágikus rendtől - közelebb áll az "
+"élőholtakhoz, mint a törvényes mágusokhoz. Az általuk használt erők "
+"titokzatosak és még az élőholtaknál is kevésbé ismerjük a működésüket."
 
 #. [unit_type]: id=Wose Shaman, race=wose_alt
 #: Story_of_Wose/units/Wose_Shaman.cfg:32
@@ -775,88 +881,90 @@ msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
 msgstr ""
+"Ezek a fapásztorok képesek úgy irányítani a liánokat, s más kúszónövényeket, "
+"hogy azok lelassítsák ellenségeiket."
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Wose_Shaman.cfg:36
 msgid "crush"
-msgstr ""
+msgstr "zúzás"
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Wose_Shaman.cfg:45
 msgid "entangle"
-msgstr ""
+msgstr "behálózás"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/utils.cfg:11
 msgid "Owhh"
-msgstr ""
+msgstr "Ohh"
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/utils.cfg:29
 msgid "I'm sorry but that death changes history too much for me."
-msgstr ""
+msgstr "Bocsánat, de ez a halál túl sokat változtatna a történetemen."
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
 #: Story_of_Wose/utils.cfg:203
 msgid "Max HP bonus +"
-msgstr ""
+msgstr "Max. ÉP bónusz +"
 
 #. [trait]: id=oak
 #: Story_of_Wose/wtraits.cfg:6
 msgid "oak"
-msgstr ""
+msgstr "tölgy"
 
 #. [trait]: id=oak
 #: Story_of_Wose/wtraits.cfg:7
 msgid "-10% blade damage"
-msgstr ""
+msgstr "-10% védelem vágás ellen"
 
 #. [trait]: id=elm
 #: Story_of_Wose/wtraits.cfg:20
 msgid "elm"
-msgstr ""
+msgstr "szil"
 
 #. [trait]: id=elm
 #: Story_of_Wose/wtraits.cfg:21
 msgid "-10% impact damage"
-msgstr ""
+msgstr "-10% ütés"
 
 #. [trait]: id=pine
 #: Story_of_Wose/wtraits.cfg:34
 msgid "pine"
-msgstr ""
+msgstr "fenyő"
 
 #. [trait]: id=pine
 #: Story_of_Wose/wtraits.cfg:35
 msgid "-10% pierce & cold damage"
-msgstr ""
+msgstr "-10% szúrás és hideg sebzés"
 
 #. [trait]: id=willow
 #: Story_of_Wose/wtraits.cfg:49
 msgid "willow"
-msgstr ""
+msgstr "fűz"
 
 #. [trait]: id=willow
 #: Story_of_Wose/wtraits.cfg:50
 msgid "fast in water, +10% fire damage"
-msgstr ""
+msgstr "gyorsabb a vízben, +10% tűz sebzés"
 
 #. [trait]: id=redwood
 #: Story_of_Wose/wtraits.cfg:71
 msgid "redwood"
-msgstr ""
+msgstr "mamutfenyő"
 
 #. [trait]: id=redwood
 #: Story_of_Wose/wtraits.cfg:72
 msgid "-10% fire damage"
-msgstr ""
+msgstr "-10% tűz sebzés"
 
 #. [race]: id=wose_alt
 #: Story_of_Wose/wtraits.cfg:84
 msgid "Wose"
-msgstr ""
+msgstr "Fapásztor"
 
 #. [race]: id=wose_alt
 #: Story_of_Wose/wtraits.cfg:85
 msgid "Woses"
-msgstr ""
+msgstr "Fapásztorok"
